@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Sudoku game and a solver programme
+Sudoku solver and a playable sudoku using GUI and pygame
